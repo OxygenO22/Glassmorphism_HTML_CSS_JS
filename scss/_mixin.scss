@@ -1,0 +1,6 @@
+//import
+@import "_template";
+
+@mixin c($font-family) {
+   @extend %m0p0;
+} ;
